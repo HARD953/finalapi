@@ -1,0 +1,28 @@
+Pauvrete monétaire
+
+Chef de ménage Homme (=1)
+Age du chef de ménage
+(Age du chef de ménage)2/100
+Chef de ménage immigré (=1)
+Chef de ménage ivoirien (=1)
+
+Education du Chef de ménage
+- sans éducation
+- niveau primaire
+- niveaux secondaire et sup.
+
+Activité du chef du ménage
+- indépendante agricole ou non agricole.
+- inactif ou chômeur
+- salarié du secteur public
+- salarié du secteur privé
+
+Type du ménage
+- Famille nucléaire ou élargie non-polyg.
+- Famille monoparentale
+- Famille polygame
+
+Composition du ménage
+- nombre d'enfants 0 à 5 ans
+
+Pauvrete en terme de  
